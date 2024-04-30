@@ -1,0 +1,12 @@
+com.example.untitled.app-core-1.6.0-0 C:\Users\kshar\.gradle\caches\transforms-3\189b8f48d9f10008a34a5cd6c01ff57f\transformed\core-1.6.0\res
+com.example.untitled.app-jetified-window-java-1.0.0-beta04-1 C:\Users\kshar\.gradle\caches\transforms-3\5256a8bb36b33b38b574f63fc884df7a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.untitled.app-jetified-window-1.0.0-beta04-2 C:\Users\kshar\.gradle\caches\transforms-3\a2785d0e22fb0d9bcd316828b2535621\transformed\jetified-window-1.0.0-beta04\res
+com.example.untitled.app-jetified-annotation-experimental-1.1.0-3 C:\Users\kshar\.gradle\caches\transforms-3\bbc79f9f275d67ece49c5ce1e2824f1e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.untitled.app-debug-4 C:\Users\kshar\AndroidStudioProjects\Todo\android\app\src\debug\res
+com.example.untitled.app-main-5 C:\Users\kshar\AndroidStudioProjects\Todo\android\app\src\main\res
+com.example.untitled.app-pngs-6 C:\Users\kshar\AndroidStudioProjects\Todo\build\app\generated\res\pngs\debug
+com.example.untitled.app-resValues-7 C:\Users\kshar\AndroidStudioProjects\Todo\build\app\generated\res\resValues\debug
+com.example.untitled.app-rs-8 C:\Users\kshar\AndroidStudioProjects\Todo\build\app\generated\res\rs\debug
+com.example.untitled.app-mergeDebugResources-9 C:\Users\kshar\AndroidStudioProjects\Todo\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.untitled.app-mergeDebugResources-10 C:\Users\kshar\AndroidStudioProjects\Todo\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.untitled.app-merged_res-11 C:\Users\kshar\AndroidStudioProjects\Todo\build\app\intermediates\merged_res\debug
